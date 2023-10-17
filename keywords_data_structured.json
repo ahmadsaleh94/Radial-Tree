@@ -1,0 +1,444 @@
+{
+    "name": "keywords",
+    "children": [
+        {
+            "name": "Application",
+            "children": [
+                {"name": "Municipality","size": 96},
+                {
+                    "name": "MBRHE (Housing)",
+                    "size": 27
+                },
+                {
+                    "name": "RTA",
+                    "size": 199
+                },
+                {
+                    "name": "Dubai Land",
+                    "size": 82
+                },
+                {
+                    "name": "Police",
+                    "size": 2
+                },
+                {
+                    "name": "DHA",
+                    "size": 5
+                },
+                {
+                    "name": "DEWA ",
+                    "size": 1
+                }
+            ]
+        },
+        {
+            "name": "Payment",
+            "children": [
+                {
+                    "name": "DEWA ",
+                    "size": 3
+                }
+            ]
+        },
+        {
+            "name": "Contract",
+            "children": [
+                {
+                    "name": "KHDA",
+                    "size": 2
+                }
+            ]
+        },
+        {
+            "name": "Status",
+            "children": [
+                {
+                    "name": "Police",
+                    "size": 1
+                },
+                {
+                    "name": "Dubai Land",
+                    "size": 2
+                }
+            ]
+        },
+        {
+            "name": "Trust Services",
+            "children": [
+                {
+                    "name": "DESC",
+                    "size": 1
+                }
+            ]
+        },
+        {
+            "name": "Location Services",
+            "children": [
+                {
+                    "name": "Dubai Land",
+                    "size": 1
+                }
+            ]
+        },
+        {
+            "name": "Other",
+            "children": [
+                {
+                    "name": "GDRFAD (Residency)",
+                    "size": 26
+                },
+                {
+                    "name": "CDA",
+                    "size": 17
+                },
+                {
+                    "name": "RTA",
+                    "size": 49
+                },
+                {
+                    "name": "DHA",
+                    "size": 183
+                },
+                {
+                    "name": "DEWA ",
+                    "size": 128
+                },
+                {
+                    "name": "Police",
+                    "size": 35
+                },
+                {
+                    "name": "DESC",
+                    "size": 6
+                },
+                {
+                    "name": "KHDA",
+                    "size": 4
+                },
+                {
+                    "name": "Dubai Land",
+                    "size": 29
+                },
+                {
+                    "name": "DCD",
+                    "size": 8
+                },
+                {
+                    "name": "MBRHE (Housing)",
+                    "size": 4
+                }
+            ]
+        },
+        {
+            "name": "Certificate",
+            "children": [
+                {
+                    "name": "DCD",
+                    "size": 5
+                },
+                {
+                    "name": "KHDA",
+                    "size": 1
+                },
+                {
+                    "name": "DESC",
+                    "size": 1
+                },
+                {
+                    "name": "Dubai Land",
+                    "size": 4
+                },
+                {
+                    "name": "Police",
+                    "size": 5
+                },
+                {
+                    "name": "DEWA ",
+                    "size": 6
+                },
+                {
+                    "name": "RTA",
+                    "size": 1
+                },
+                {
+                    "name": "DHA",
+                    "size": 4
+                }
+            ]
+        },
+        {
+            "name": "Real Estate",
+            "children": [
+                {
+                    "name": "Dubai Land",
+                    "size": 13
+                }
+            ]
+        },
+        {
+            "name": "Visa and Residency",
+            "children": [
+                {
+                    "name": "GDRFAD (Residency)",
+                    "size": 7
+                }
+            ]
+        },
+        {
+            "name": "Utility and Infrastructure",
+            "children": [
+                {
+                    "name": "DESC",
+                    "size": 1
+                },
+                {
+                    "name": "DEWA ",
+                    "size": 1
+                }
+            ]
+        },
+        {
+            "name": "Permit",
+            "children": [
+                {
+                    "name": "GDRFAD (Residency)",
+                    "size": 2
+                },
+                {
+                    "name": "KHDA",
+                    "size": 1
+                },
+                {
+                    "name": "Police",
+                    "size": 6
+                },
+                {
+                    "name": "DCD",
+                    "size": 1
+                },
+                {
+                    "name": "DHA",
+                    "size": 2
+                }
+            ]
+        },
+        {
+            "name": "Request",
+            "children": [
+                {
+                    "name": "DCD",
+                    "size": 26
+                },
+                {
+                    "name": "Police",
+                    "size": 5
+                },
+                {
+                    "name": "CDA",
+                    "size": 1
+                },
+                {
+                    "name": "MBRHE (Housing)",
+                    "size": 2
+                },
+                {
+                    "name": "DEWA ",
+                    "size": 9
+                },
+                {
+                    "name": "Dubai Land",
+                    "size": 13
+                },
+                {
+                    "name": "DHA",
+                    "size": 11
+                }
+            ]
+        },
+        {
+            "name": "Medical Services",
+            "children": [
+                {
+                    "name": "CDA",
+                    "size": 1
+                },
+                {
+                    "name": "DHA",
+                    "size": 21
+                },
+                {
+                    "name": "Police",
+                    "size": 1
+                }
+            ]
+        },
+        {
+            "name": "Registration",
+            "children": [
+                {
+                    "name": "CDA",
+                    "size": 1
+                },
+                {
+                    "name": "Dubai Land",
+                    "size": 2
+                },
+                {
+                    "name": "MBRHE (Housing)",
+                    "size": 1
+                },
+                {
+                    "name": "DCD",
+                    "size": 1
+                },
+                {
+                    "name": "DEWA ",
+                    "size": 1
+                },
+                {
+                    "name": "DHA",
+                    "size": 4
+                }
+            ]
+        },
+        {
+            "name": "Licensing",
+            "children": [
+                {
+                    "name": "Dubai Land",
+                    "size": 5
+                },
+                {
+                    "name": "GDRFAD (Residency)",
+                    "size": 4
+                },
+                {
+                    "name": "DEWA ",
+                    "size": 1
+                },
+                {
+                    "name": "DHA",
+                    "size": 14
+                }
+            ]
+        },
+        {
+            "name": "Verification and Validation",
+            "children": [
+                {
+                    "name": "DEWA ",
+                    "size": 1
+                },
+                {
+                    "name": "Dubai Land",
+                    "size": 1
+                },
+                {
+                    "name": "Police",
+                    "size": 1
+                }
+            ]
+        },
+        {
+            "name": "Legal and Compliance",
+            "children": [
+                {
+                    "name": "Police",
+                    "size": 1
+                },
+                {
+                    "name": "Dubai Land",
+                    "size": 1
+                },
+                {
+                    "name": "DHA",
+                    "size": 3
+                }
+            ]
+        },
+        {
+            "name": "Documentation",
+            "children": [
+                {
+                    "name": "MBRHE (Housing)",
+                    "size": 1
+                },
+                {
+                    "name": "DCD",
+                    "size": 1
+                }
+            ]
+        },
+        {
+            "name": "Financial Services",
+            "children": [
+                {
+                    "name": "Police",
+                    "size": 1
+                },
+                {
+                    "name": "Dubai Land",
+                    "size": 1
+                }
+            ]
+        },
+        {
+            "name": "Rental Services",
+            "children": [
+                {
+                    "name": "Dubai Land",
+                    "size": 1
+                },
+                {
+                    "name": "RTA",
+                    "size": 2
+                }
+            ]
+        },
+        {
+            "name": "Certi2ficate",
+            "children": [
+                {
+                    "name": "Police",
+                    "size": 1
+                }
+            ]
+        },
+        {
+            "name": "Partnerships and Collaboration",
+            "children": [
+                {
+                    "name": "DEWA ",
+                    "size": 1
+                }
+            ]
+        },
+        {
+            "name": "Insurance",
+            "children": [
+                {
+                    "name": "DHA",
+                    "size": 3
+                }
+            ]
+        },
+        {
+            "name": "Bidding",
+            "children": [
+                {
+                    "name": "DHA",
+                    "size": 1
+                }
+            ]
+        },
+        {
+            "name": "Auditing",
+            "children": [
+                {
+                    "name": "DHA",
+                    "size": 2
+                }
+            ]
+        }
+    ]
+}
